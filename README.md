@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KisshBot
-- 👀 Archtecting the containerised farms with highly accessible, scalable and optimized harvesting.
-- 🌱 Exploring various DevOps automation Tools.
-- 💞️ Open to collaborate on technologies that can simplify CICD automation for vendor neutral platform.
+- 👋 Hi, I’m Kishor,
+- 👀 Looking forword to Architect the containerised farms with highly accessible, scalable and optimized harvesting.
+- 🌱 Currently exploring DevOps automation.
+- 💞️ Open to collaborate on automation technologies that can simplify CICD for On-prem, Hybrid & Public cloud.
 - 📫 Reach me on Linkedin.com @kishorrobo 
