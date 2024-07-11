@@ -2,7 +2,6 @@
 - 💡 As a seasoned professional in the DevSecOps/Site-Reliability field, my approach is rooted in a deep understanding of both development and operations, allowing me to bridge the gap between teams and drive continuous & impactful improvements in application lifecycle management.
 - 🗺️ Embarking on a journey towards automation, scalability and reliability !!
 - 🤝🏻 Open to meeting new people, exchanging ideas, sharing experiences, participating and volunteering in the community, and attending conferences and meetups.
-- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kishorkumbhar" target="_blank">Follow on LinkedIn</a>
 
 # 🌏 Global Certifications
 <ul style="list-style: none; padding-left: 0; margin: 10px 0;">
